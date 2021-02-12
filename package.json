@@ -10,10 +10,14 @@
     "lint": "eslint \"src/**/*.tsx\" --fix"
   },
   "dependencies": {
+    "@zeit/next-sass": "^1.0.1",
     "classnames": "^2.2.6",
     "downshift": "^6.0.15",
     "next": "10.0.6",
+    "next-compose-plugins": "^2.2.1",
     "next-images": "^1.6.2",
+    "nextjs-fonts": "^0.22.0",
+    "node-sass": "^5.0.0",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-slider": "^1.1.2",
