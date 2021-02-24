@@ -6,7 +6,6 @@ type Props = {
   version: string
 }
 
-/* eslint-disable jsx-a11y/anchor-is-valid */
 export const Banner: React.FC<Props> = ({ version }) => {
   return (
     <div className={styles.banner}>

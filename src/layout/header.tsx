@@ -2,7 +2,6 @@ import Link from 'next/link'
 import React from 'react'
 import styles from './header.module.css'
 
-/* eslint-disable jsx-a11y/anchor-is-valid */
 export const Header = () => {
   return (
     <header className={styles.header}>
