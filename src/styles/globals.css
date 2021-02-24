@@ -18,3 +18,8 @@ html {
   position: relative;
   min-height: 100vh;
 }
+
+:root {
+  --main-color: #888;
+  --accent: pink;
+}
