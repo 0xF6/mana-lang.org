@@ -1,10 +1,4 @@
-import {
-  default as Document,
-  Head,
-  Html,
-  Main,
-  NextScript,
-} from 'next/document'
+import Document, { Head, Html, Main, NextScript } from 'next/document'
 import React from 'react'
 
 class MyDocument extends Document {
@@ -36,10 +30,11 @@ class MyDocument extends Document {
 
           <meta name="yandex-verification" content="037d3272966f67c1" />
 
-          <link rel="icon" type="image/png" href="/favicon.png" />
+          <link rel="icon" type="image/png" href="/favicon.ico" />
         </Head>
         <body>
           <Main />
+          <NextScript />
         </body>
       </Html>
     )
