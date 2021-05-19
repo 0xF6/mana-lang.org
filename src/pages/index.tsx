@@ -19,7 +19,7 @@ const Home: NextPage<Props> = ({ version }) => {
 
 Home.getInitialProps = async () => {
   const response1 = await Promise.resolve({
-    version: '0.228.1488',
+    version: '0.4.994',
   })
 
   return {

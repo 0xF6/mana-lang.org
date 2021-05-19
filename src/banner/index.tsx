@@ -13,8 +13,8 @@ export const Banner: React.FC<Props> = ({ version }) => {
         <div className={styles.inner}>
           <div className={styles.row}>
             <div className={styles.left}>
-              <h1 className={styles.h1}>Wave Lang</h1>
-              <h2 className={styles.h2}>with Insomnia VM</h2>
+              <h1 className={styles.h1}>Mana Lang</h1>
+              <h2 className={styles.h2}>with Ishtar VM</h2>
             </div>
             <div className={styles.right}>
               <Link href="/get-started">
@@ -22,7 +22,7 @@ export const Banner: React.FC<Props> = ({ version }) => {
               </Link>
               <a
                 className={styles.release}
-                href="https://github.com/0xF6/wave_lang"
+                href="https://github.com/0xF6/mana_lang"
               >
                 latest release: <b>{version}</b>
               </a>
