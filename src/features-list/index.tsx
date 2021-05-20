@@ -11,7 +11,7 @@ export const FeaturesList = () => {
           <div className={styles.row}>
             <div className={styles.col}>
               <div className={styles.imgWrapper}>
-                <img className={styles.img} alt="" />
+                <img src="/icons/command-line.png" className={styles.img} alt="" />
               </div>
               <p className={styles.desc}>Command Line</p>
               <div className={styles.listWrapper}>
@@ -22,7 +22,7 @@ export const FeaturesList = () => {
             </div>
             <div className={styles.col}>
               <div className={styles.imgWrapper}>
-                <img className={styles.img} alt="" />
+                <img src="/icons/cpu.png" className={styles.img} alt="" />
               </div>
               <p className={styles.desc}>Embedded</p>
               <div className={styles.listWrapper}>
@@ -33,7 +33,7 @@ export const FeaturesList = () => {
             </div>
             <div className={styles.col}>
               <div className={styles.imgWrapper}>
-                <img className={styles.img} alt="" />
+                <img src="/icons/brain.png" className={styles.img} alt="" />
               </div>
               <p className={styles.desc}>AI</p>
               <div className={styles.listWrapper}>
@@ -44,7 +44,7 @@ export const FeaturesList = () => {
             </div>
             <div className={styles.col}>
               <div className={styles.imgWrapper}>
-                <img className={styles.img} alt="" />
+                <img src="/icons/science.png" className={styles.img} alt="" />
               </div>
               <p className={styles.desc}>Quantum Computing</p>
               <div className={styles.listWrapper}>
