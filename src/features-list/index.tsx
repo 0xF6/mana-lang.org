@@ -7,7 +7,7 @@ export const FeaturesList = () => {
     <div className={styles.root}>
       <div className={styles.wrapper}>
         <div className={styles.inner}>
-          <h3 className={styles.h3}>Build it in Wave</h3>
+          <h3 className={styles.h3}>Build it in Mana</h3>
           <div className={styles.row}>
             <div className={styles.col}>
               <div className={styles.imgWrapper}>
