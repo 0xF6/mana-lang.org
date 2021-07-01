@@ -17,6 +17,15 @@ html {
 #__next {
   position: relative;
   min-height: 100vh;
+  background-image: url('~styles/back.svg');
+  background-repeat: repeat;
+  background-position: 0 0;
+  background-size: cover;
+}
+
+.blur {
+  mix-blend-mode: lighten;
+  backdrop-filter: blur(25px) brightness(145%);
 }
 
 :root {

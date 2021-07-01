@@ -28,6 +28,8 @@ class MyDocument extends Document {
           <meta property="og:image:height" content="283" />
           <meta property="og:image:width" content="64" />
 
+          <link href="/fonts/Lato/lato.css" rel="stylesheet" type="text/css" />
+
           <meta name="yandex-verification" content="037d3272966f67c1" />
 
           <link rel="icon" type="image/png" href="/favicon.png" />
