@@ -51,12 +51,12 @@ export const Header = () => {
                 className={classnames(styles.leftHex, styles.hex)}
                 data-name="hex2"
               />
-              <Label className={classnames(styles.label)} data-name="label" />
-              <div className={styles.version}>
+              {/* <Label className={classnames(styles.label)} data-name="label" /> */}
+              {/* <div className={styles.version}>
                 <a href="https://github.com">
                   latest release: <b>1488</b>
                 </a>
-              </div>
+              </div> */}
               <Link href="/">
                 <a title="Get started" className={classnames(styles.btn)}>
                   Get started
