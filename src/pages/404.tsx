@@ -1,12 +1,11 @@
+import { ErrorView } from 'error-view'
 import { Layout } from 'layout'
-import { NextPage } from 'next'
-import Error from 'next/error'
 import React from 'react'
 
-const ErrorPage: NextPage = () => {
+export const ErrorPage = () => {
   return (
     <Layout>
-      <Error statusCode={404} />
+      <ErrorView code={'404'} />
     </Layout>
   )
 }

@@ -1,0 +1,29 @@
+<svg id="footer" xmlns="http://www.w3.org/2000/svg" width="2180.467" height="668.73" viewBox="0 0 2180.467 668.73">
+  <text id="DOCUMENTATION" transform="translate(664.984 27)" fill="#fff" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">DOCUMENTATION</tspan></text>
+  <text id="Getting_Started" data-name="Getting Started" transform="translate(694.984 90)" fill="#fff" font-size="22" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Getting Started</tspan></text>
+  <text id="API" transform="translate(751.984 141)" fill="#fff" font-size="22" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">API</tspan></text>
+  <text id="DOWNLOAD" transform="translate(1013.984 27)" fill="#fff" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">DOWNLOAD</tspan></text>
+  <text id="Current_Version" data-name="Current Version" transform="translate(1009.984 90)" fill="#fff" font-size="22" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Current Version</tspan></text>
+  <text id="All_versions" data-name="All versions" transform="translate(1029.984 141)" fill="#fff" font-size="22" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">All versions</tspan></text>
+  <text id="Overviews_Guides" data-name="Overviews/Guides" transform="translate(681.984 192)" fill="#fff" font-size="22" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Overviews/Guides</tspan></text>
+  <text id="Language_Specification" data-name="Language Specification" transform="translate(656.984 243)" fill="#fff" font-size="22" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Language Specification</tspan></text>
+  <text id="Mana_Lang_Copyright_2021_Yuuki_Wesp_MIT_License" data-name="Mana LangCopyright © 2021 Yuuki WespMIT License" transform="translate(1021.984 335.992)" fill="#fff" font-size="22" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Mana Lang</tspan><tspan x="0" y="30">Copyright © 2021 Yuuki Wesp</tspan><tspan x="0" y="60">MIT License</tspan></text>
+  <text id="SOCIAL" transform="translate(1304.984 27)" fill="#fff" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">SOCIAL</tspan></text>
+  <text id="Github" transform="translate(1312.984 90)" fill="#fff" font-size="22" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Github</tspan></text>
+  <g id="Path_13" data-name="Path 13" transform="matrix(0.695, 0.719, -0.719, 0.695, 184.151, 249)" fill="#fff">
+    <path d="M 255.1909942626953 255.5 L 0.8089923858642578 255.5 L 127.9999923706055 1.118000030517578 L 192.3879547119141 129.8939361572266 L 255.1909942626953 255.5 Z" stroke="none"/>
+    <path d="M 127.9999923706055 2.236068725585938 L 1.618026733398438 255 L 254.3819580078125 255 L 191.9406890869141 130.1175231933594 L 127.9999923706055 2.236068725585938 M 127.9999923706055 0 L 192.8351287841797 129.6703338623047 L 256 256 L -1.52587890625e-05 256 L 127.9999923706055 0 Z" stroke="none" fill="#fff"/>
+  </g>
+  <g id="Polygon_2" data-name="Polygon 2" transform="matrix(0.695, -0.719, 0.719, 0.695, 1818.483, 433.151)" fill="#fff">
+    <path d="M 255.1909942626953 255.5 L 0.8089923858642578 255.5 L 127.9999923706055 1.118000030517578 L 255.1909942626953 255.5 Z" stroke="none"/>
+    <path d="M 127.9999923706055 2.236068725585938 L 1.618026733398438 255 L 254.3819580078125 255 L 127.9999923706055 2.236068725585938 M 127.9999923706055 0 L 256 256 L -1.52587890625e-05 256 L 127.9999923706055 0 Z" stroke="none" fill="#fff"/>
+  </g>
+  <g id="Polygon_5" data-name="Polygon 5" transform="translate(272.734 317.992) rotate(21)" fill="#fff">
+    <path d="M 255.1909942626953 255.5 L 0.8089923858642578 255.5 L 127.9999923706055 1.118000030517578 L 255.1909942626953 255.5 Z" stroke="none"/>
+    <path d="M 127.9999923706055 2.236068725585938 L 1.618026733398438 255 L 254.3819580078125 255 L 127.9999923706055 2.236068725585938 M 127.9999923706055 0 L 256 256 L -1.52587890625e-05 256 L 127.9999923706055 0 Z" stroke="none" fill="#fff"/>
+  </g>
+  <g id="Polygon_6" data-name="Polygon 6" transform="translate(1704.237 429.733) rotate(-21)" fill="#fff">
+    <path d="M 255.1909942626953 255.5 L 0.8089923858642578 255.5 L 127.9999923706055 1.118000030517578 L 255.1909942626953 255.5 Z" stroke="none"/>
+    <path d="M 127.9999923706055 2.236068725585938 L 1.618026733398438 255 L 254.3819580078125 255 L 127.9999923706055 2.236068725585938 M 127.9999923706055 0 L 256 256 L -1.52587890625e-05 256 L 127.9999923706055 0 Z" stroke="none" fill="#fff"/>
+  </g>
+</svg>

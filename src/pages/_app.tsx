@@ -6,7 +6,7 @@ const MyApp: React.FC<AppProps> = ({ Component, pageProps }) => {
   return (
     <>
       <Head>
-        <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+        <meta name="viewport" content="width=1440" />
         <title>Mana Lang</title>
       </Head>
       <Component {...pageProps} />
