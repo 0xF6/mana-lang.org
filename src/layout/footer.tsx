@@ -6,22 +6,22 @@ const items = [
   {
     title: 'documentation',
     links: [
-      { link: '/', title: 'Getting Started', isExternal: false },
-      { link: '/', title: 'API', isExternal: false },
-      { link: '/', title: 'Overviews/Guides', isExternal: false },
-      { link: '/', title: 'Language Specification', isExternal: false },
+      { link: 'https://docs.mana-lang.org/docs/intro', title: 'Getting Started', isExternal: true },
+      { link: 'https://docs.mana-lang.org/docs/runtime/index', title: 'API', isExternal: true },
+      { link: 'https://docs.mana-lang.org/docs/guides/the-basis', title: 'Overviews/Guides', isExternal: true },
+      { link: 'https://docs.mana-lang.org/docs/intro', title: 'Language Specification', isExternal: true },
     ],
   },
   {
     title: 'download',
     links: [
-      { link: '/', title: 'Current Version', isExternal: false },
-      { link: '/', title: 'All versions', isExternal: false },
+      { link: 'https://github.com/0xF6/mana_lang/releases', title: 'Current Version', isExternal: true },
+      { link: 'https://github.com/0xF6/mana_lang/releases', title: 'All versions', isExternal: true },
     ],
   },
   {
     title: 'social',
-    links: [{ link: '/', title: 'Github', isExternal: true }],
+    links: [{ link: 'https://github.com/0xF6/mana_lang', title: 'Github', isExternal: true }],
   },
 ]
 

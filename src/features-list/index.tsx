@@ -23,7 +23,7 @@ export const FeaturesList = () => {
               </div>
               <p className={styles.desc}>Command Line</p>
               <div className={styles.listWrapper}>
-                <Link href="/building-tools">
+                <Link href="https://docs.mana-lang.org/docs/guides/how-to-cli">
                   <a className={styles.feature}>Building Tools</a>
                 </Link>
               </div>
@@ -38,7 +38,7 @@ export const FeaturesList = () => {
               </div>
               <p className={styles.desc}>Embedded</p>
               <div className={styles.listWrapper}>
-                <Link href="/built-your-iot">
+                <Link href="https://docs.mana-lang.org/docs/guides/how-to-embedded">
                   <a className={styles.feature}>Built your IoT</a>
                 </Link>
               </div>
@@ -52,7 +52,7 @@ export const FeaturesList = () => {
               </div>
               <p className={styles.desc}>AI</p>
               <div className={styles.listWrapper}>
-                <Link href="/build-your-skynet">
+                <Link href="https://docs.mana-lang.org/docs/guides/how-to-ai">
                   <a className={styles.feature}>Build your SkyNet</a>
                 </Link>
               </div>
@@ -66,7 +66,7 @@ export const FeaturesList = () => {
               </div>
               <p className={styles.desc}>Quantum Computing</p>
               <div className={styles.listWrapper}>
-                <Link href="/hack-pentagon">
+                <Link href="https://docs.mana-lang.org/docs/guides/how-to-quantum">
                   <a className={styles.feature}>Hack Pentagon</a>
                 </Link>
               </div>

@@ -18,13 +18,13 @@ export const Header = () => {
     <>
       <Menu data-name="menu" className={styles.menu} />
       <nav className={styles.menuBlock}>
-        <Link href="/install">
+        <Link href="https://docs.mana-lang.org/docs/intro">
           <a className={styles.menuItem}>Install</a>
         </Link>
-        <Link href="/learn">
+        <Link href="https://docs.mana-lang.org/docs/guides/the-basis">
           <a className={styles.menuItem}>Learn</a>
         </Link>
-        <Link href="/tools">
+        <Link href="https://docs.mana-lang.org/docs/intro">
           <a className={styles.menuItem}>Tools</a>
         </Link>
       </nav>
@@ -57,7 +57,7 @@ export const Header = () => {
                   latest release: <b>1488</b>
                 </a>
               </div> */}
-              <Link href="/">
+              <Link href="https://docs.mana-lang.org/docs/intro">
                 <a title="Get started" className={classnames(styles.btn)}>
                   Get started
                 </a>
